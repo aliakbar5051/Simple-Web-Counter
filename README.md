@@ -1,3 +1,9 @@
+##SCREENSHOTS
+<img width="2189" height="1282" alt="Screenshot 2026-09-10 191549" src="https://github.com/user-attachments/assets/18ef491b-dd46-4a4f-99d8-bd6401e42d32" />
+<img width="1968" height="1183" alt="Screenshot 2026-09-10 191602" src="https://github.com/user-attachments/assets/3541d332-3f8a-4b9a-a51b-9d6b67bc982d" />
+<img width="1890" height="1163" alt="Screenshot 2026-09-10 191613" src="https://github.com/user-attachments/assets/38eafaa6-e13c-433e-8ca6-1eb6dcecbaea" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
